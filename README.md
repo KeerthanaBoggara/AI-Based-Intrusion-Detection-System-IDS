@@ -1,4 +1,4 @@
-🔐 Cybersecurity Threat Detection in Network Traffic
+🔐 AI-Based Intrusion Detection System (IDS)
 🧩 Problem Statement
 In today’s digital era, safeguarding network infrastructure is paramount. Organizations are under constant threat from malicious activities such as unauthorized access, DDoS attacks, brute-force attempts, and data breaches. The core challenge is to analyze massive volumes of network traffic logs in near real-time to detect anomalies and known attack patterns efficiently.
 
